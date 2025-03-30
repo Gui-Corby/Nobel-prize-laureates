@@ -4,7 +4,6 @@
 ## Overview
 Personal project to analyse the winners of the Nobel prize until 2024, running queries to identify interesting insights, such as:
 
-## In this project, I run some queries to identify interesting insights, such as:
 - What nations provided the most laureates?
 - What are the top winning universities?
 - How is the gender distribution across winners?
