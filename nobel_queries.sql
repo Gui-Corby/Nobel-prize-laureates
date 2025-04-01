@@ -172,9 +172,6 @@ WHERE gender = 'female'
 GROUP BY category
 ORDER BY COUNT(*) DESC;
 
-SELECT * FROM nobel
-LIMIT 1;
-
 
 -- Checking repeated laureates
 SELECT full_name, year, category, motivation
